@@ -2,7 +2,8 @@
 This repository containes python code for question answering, sentiment analysis and clustering of standardised test problems
 
 # Data
-The dataset can be downloaded [here](http://data.allenai.org/arc/) (AI2 Reasoning Challenge) and [here](http://data.allenai.org/ai2-science-questions/) (AI2 Science Questions v2.1 (October 2017). Download the files from the link and store them inside a directory named data.
+The dataset can be downloaded [here](http://data.allenai.org/arc/) (AI2 Reasoning Challenge), [here](http://data.allenai.org/ai2-science-questions-mercury/)(AI2 Science Questions Mercury) [here](http://data.allenai.org/ai2-science-questions/) (AI2 Science Questions v2.1 (October 2017) and [here]
+(http://ai2-website.s3.amazonaws.com/data/BiologyHowWhyCorpus.tar)(AI2 Biology How/Why Corpus)Download the files from the link and store them inside a directory named data.
 
 
 # Related Works
